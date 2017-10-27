@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelMateChecklist</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="dialog_title">Enter Item Name:</string>
+    <string name="dialog_text_hint">Ex: Bag</string>
+</resources>
